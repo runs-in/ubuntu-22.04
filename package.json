@@ -1,0 +1,11 @@
+{
+  "name": "@runs-on/ubuntu",
+  "description": "",
+  "version": "1.0.0",
+  "license": "MIT",
+  "exports": {
+    ".": "./dist/index.js",
+    "./*.js": "./dist/*.js"
+  },
+  "dependencies": {}
+}
